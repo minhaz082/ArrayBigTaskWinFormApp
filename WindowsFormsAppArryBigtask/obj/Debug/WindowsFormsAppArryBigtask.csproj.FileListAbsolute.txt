@@ -1,0 +1,9 @@
+G:\Minhaz-49Batch\WindowsFormsAppArryBigtask\WindowsFormsAppArryBigtask\bin\Debug\WindowsFormsAppArryBigtask.exe.config
+G:\Minhaz-49Batch\WindowsFormsAppArryBigtask\WindowsFormsAppArryBigtask\bin\Debug\WindowsFormsAppArryBigtask.exe
+G:\Minhaz-49Batch\WindowsFormsAppArryBigtask\WindowsFormsAppArryBigtask\bin\Debug\WindowsFormsAppArryBigtask.pdb
+G:\Minhaz-49Batch\WindowsFormsAppArryBigtask\WindowsFormsAppArryBigtask\obj\Debug\WindowsFormsAppArryBigtask.csprojResolveAssemblyReference.cache
+G:\Minhaz-49Batch\WindowsFormsAppArryBigtask\WindowsFormsAppArryBigtask\obj\Debug\WindowsFormsAppArryBigtask.Form1.resources
+G:\Minhaz-49Batch\WindowsFormsAppArryBigtask\WindowsFormsAppArryBigtask\obj\Debug\WindowsFormsAppArryBigtask.Properties.Resources.resources
+G:\Minhaz-49Batch\WindowsFormsAppArryBigtask\WindowsFormsAppArryBigtask\obj\Debug\WindowsFormsAppArryBigtask.csproj.GenerateResource.Cache
+G:\Minhaz-49Batch\WindowsFormsAppArryBigtask\WindowsFormsAppArryBigtask\obj\Debug\WindowsFormsAppArryBigtask.exe
+G:\Minhaz-49Batch\WindowsFormsAppArryBigtask\WindowsFormsAppArryBigtask\obj\Debug\WindowsFormsAppArryBigtask.pdb
